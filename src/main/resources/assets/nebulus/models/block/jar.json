@@ -1,0 +1,10 @@
+{
+  "parent": "nebulus:custom/model_(3)",
+  "textures": {
+    "all": "blocks/cinderrootglass",
+    "particle": "blocks/cinderrootglass",
+    "0": "blocks/cinderrootglass",
+    "1": "blocks/emberoakside",
+    "missing": "blocks/emberoakplanks"
+  }
+}

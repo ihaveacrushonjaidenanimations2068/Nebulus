@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:lagsphere"
+    },
+    "facing=north": {
+      "model": "nebulus:lagsphere"
+    },
+    "facing=east": {
+      "model": "nebulus:lagsphere",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:lagsphere",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:lagsphere",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blocks/leavesethereal",
+    "particle": "blocks/leavesethereal"
+  }
+}

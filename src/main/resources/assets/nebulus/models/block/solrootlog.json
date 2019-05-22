@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/solrootlogtop",
+    "up": "blocks/solrootlogtop",
+    "north": "blocks/solrootlogside",
+    "east": "blocks/solrootlogside",
+    "south": "blocks/solrootlogside",
+    "west": "blocks/solrootlogside",
+    "particle": "blocks/solrootlogtop"
+  }
+}

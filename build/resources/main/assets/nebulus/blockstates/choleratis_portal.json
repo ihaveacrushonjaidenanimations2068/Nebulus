@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nebulus:choleratis_portal_ew"
+    },
+    "axis=x": {
+      "model": "nebulus:choleratis_portal_ns"
+    },
+    "inventory": {
+      "model": "nebulus:choleratis_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:turtle"
+    },
+    "facing=north": {
+      "model": "nebulus:turtle"
+    },
+    "facing=east": {
+      "model": "nebulus:turtle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:turtle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:turtle",
+      "y": 270
+    }
+  }
+}

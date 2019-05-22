@@ -1,0 +1,8 @@
+{
+  "parent": "nebulus:custom/model_(5)",
+  "textures": {
+    "all": "blocks/emberoakplanks",
+    "particle": "blocks/emberoakplanks",
+    "missing": "blocks/emberoakplanks"
+  }
+}

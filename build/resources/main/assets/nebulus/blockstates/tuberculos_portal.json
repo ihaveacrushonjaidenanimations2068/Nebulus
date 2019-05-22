@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nebulus:tuberculos_portal_ew"
+    },
+    "axis=x": {
+      "model": "nebulus:tuberculos_portal_ns"
+    },
+    "inventory": {
+      "model": "nebulus:tuberculos_portal_ns"
+    }
+  }
+}

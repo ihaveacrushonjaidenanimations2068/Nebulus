@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:moltennicedispensers"
+    },
+    "facing=north": {
+      "model": "nebulus:moltennicedispensers"
+    },
+    "facing=east": {
+      "model": "nebulus:moltennicedispensers",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:moltennicedispensers",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:moltennicedispensers",
+      "y": 270
+    }
+  }
+}

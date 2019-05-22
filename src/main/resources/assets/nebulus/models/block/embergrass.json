@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/nebugrassbottom",
+    "up": "blocks/embeergrass",
+    "north": "blocks/embergrass",
+    "east": "blocks/embergrass",
+    "south": "blocks/embergrass",
+    "west": "blocks/embergrass",
+    "particle": "blocks/nebugrassbottom"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2019-02-24 11:27:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-24 10:55:55 +0800"
+    },
+    "done": true
+  }
+}

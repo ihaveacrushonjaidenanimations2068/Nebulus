@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:leptospyradian_power_core"
+    }
+  }
+}

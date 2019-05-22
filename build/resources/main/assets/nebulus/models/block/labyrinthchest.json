@@ -1,0 +1,15 @@
+{
+  "parent": "nebulus:custom/labyrinth_chest",
+  "textures": {
+    "all": "blocks/labyrinth chest main top",
+    "particle": "blocks/labyrinth chest main top",
+    "0": "blocks/labyrinth chest main side",
+    "1": "blocks/labyrinth chest main front",
+    "2": "blocks/labyrinth chest main open bottom",
+    "3": "blocks/labyrinth chest main bottom",
+    "4": "blocks/labyrinth chest main top",
+    "-1": "blocks/",
+    "5": "blocks/labyrinth chest main open bottom",
+    "6": "blocks/labyrinth chest corners"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blocks/nsapling2",
+    "particle": "blocks/nsapling2"
+  }
+}

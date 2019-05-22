@@ -1,0 +1,35 @@
+{
+	"geometry.ModelNebulizedTurtle": {
+		"texturewidth": 16,
+		"textureheight": 16,
+		"visible_bounds_width": 4,
+		"visible_bounds_height": 2,
+		"visible_bounds_offset": [0, 1, 0],
+		"bones": [
+			{
+				"name": "bone",
+				"pivot": [0, 0, 0],
+				"cubes": [
+					{"origin": [-9, 5, -13], "size": [17, 2, 24], "uv": [0, 0]},
+					{"origin": [-6, 2, -10], "size": [11, 4, 20], "uv": [0, 0]},
+					{"origin": [-7, 7, -11], "size": [13, 4, 20], "uv": [0, 0]},
+					{"origin": [5, 2, -9], "size": [8, 1, 5], "uv": [0, 0]},
+					{"origin": [-14, 2, -10], "size": [8, 1, 5], "uv": [0, 0]},
+					{"origin": [5, 2, 4], "size": [8, 1, 6], "uv": [0, 0]},
+					{"origin": [-14, 2, 5], "size": [8, 1, 5], "uv": [0, 0]}
+				]
+			},
+			{
+				"name": "bone2",
+				"pivot": [0, 0, 0],
+				"rotation": [-5, 0, 0],
+				"cubes": [
+					{"origin": [-2, 4, -22], "size": [3, 2, 10], "uv": [0, 0]},
+					{"origin": [-3, 5, -23], "size": [5, 13, 2], "uv": [0, 0]},
+					{"origin": [-3, 13, -29], "size": [5, 5, 6], "uv": [0, 0]},
+					{"origin": [-1, 7, 10], "size": [1, 1, 6], "uv": [0, 0]}
+				]
+			}
+		]
+	}
+}

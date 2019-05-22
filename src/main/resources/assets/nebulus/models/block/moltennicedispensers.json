@@ -1,0 +1,13 @@
+{
+  "parent": "nebulus:custom/model_(9)",
+  "textures": {
+    "all": "blocks/mnistill",
+    "particle": "blocks/mnistill",
+    "0": "blocks/nebulatorside",
+    "1": "blocks/nebulatortop",
+    "2": "blocks/innernebulitemeteor",
+    "3": "blocks/mnistill",
+    "4": "blocks/cinderrootglass",
+    "missing": "blocks/mnistill"
+  }
+}

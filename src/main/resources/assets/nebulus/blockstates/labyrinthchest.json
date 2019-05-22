@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:labyrinthchest"
+    },
+    "facing=north": {
+      "model": "nebulus:labyrinthchest"
+    },
+    "facing=east": {
+      "model": "nebulus:labyrinthchest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:labyrinthchest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:labyrinthchest",
+      "y": 270
+    }
+  }
+}

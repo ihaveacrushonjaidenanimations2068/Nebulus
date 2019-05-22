@@ -1,0 +1,38 @@
+{
+  "mob.test.hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "nebulus:hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "mob.test.death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "nebulus:death",
+        "stream": false
+      }
+    ]
+  },
+  "mob.test.ambient": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "nebulus:say2",
+        "stream": false
+      }
+    ]
+  },
+  "block.prodline.noise": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "nebulus:hurt2",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "nebulus:custom/model_(6)",
+  "textures": {
+    "all": "blocks/solrootplanks",
+    "particle": "blocks/solrootplanks",
+    "0": "blocks/solrootdoorupper",
+    "1": "blocks/solrootdoorlower",
+    "missing": "blocks/solrootplanks"
+  }
+}

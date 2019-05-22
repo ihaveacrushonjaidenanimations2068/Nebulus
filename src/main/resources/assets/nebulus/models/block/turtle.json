@@ -1,0 +1,7 @@
+{
+  "parent": "nebulus:custom/modelnebulizedturtle.java",
+  "textures": {
+    "all": "blocks/nebsulizedstone",
+    "particle": "blocks/nebsulizedstone"
+  }
+}

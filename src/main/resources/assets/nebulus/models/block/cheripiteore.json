@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/cheripiteore",
+    "up": "blocks/cheripiteore",
+    "north": "blocks/cheripiteore",
+    "east": "blocks/cheripiteore",
+    "south": "blocks/cheripiteore",
+    "west": "blocks/cheripiteore",
+    "particle": "blocks/cheripiteore"
+  }
+}

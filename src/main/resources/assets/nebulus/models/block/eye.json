@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/eyeblock_eye",
+    "up": "blocks/eyeblock_back",
+    "north": "blocks/eyeblock_side",
+    "east": "blocks/eyeblock_side",
+    "south": "blocks/eyeblock_side",
+    "west": "blocks/eyeblock_side",
+    "particle": "blocks/eyeblock_eye"
+  }
+}

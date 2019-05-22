@@ -1,0 +1,20 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "nebulus:altar"
+    },
+    "title": {
+      "translate": "advancements.wothy.title"
+    },
+    "description": {
+      "translate": "advancements.wothy.descr"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "wothy": {
+      "trigger": "wothy"
+    }
+  }
+}

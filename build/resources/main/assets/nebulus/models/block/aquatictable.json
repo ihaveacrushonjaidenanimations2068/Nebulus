@@ -1,0 +1,11 @@
+{
+  "parent": "nebulus:custom/model_(10)",
+  "textures": {
+    "all": "blocks/hythalumcoralblock",
+    "particle": "blocks/hythalumcoralblock",
+    "1": "blocks/hythalumcoralblock",
+    "2": "blocks/daemonaltar",
+    "3": "blocks/misoelyanaltar",
+    "4": "blocks/primedlamp"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nebulus:emberrus_portal_ew"
+    },
+    "axis=x": {
+      "model": "nebulus:emberrus_portal_ns"
+    },
+    "inventory": {
+      "model": "nebulus:emberrus_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:productionline"
+    },
+    "facing=north": {
+      "model": "nebulus:productionline"
+    },
+    "facing=east": {
+      "model": "nebulus:productionline",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:productionline",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:productionline",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "nebulus:productionline",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "nebulus:productionline",
+      "x": 90
+    }
+  }
+}

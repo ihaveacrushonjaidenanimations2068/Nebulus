@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:dungeonkeyhole"
+    },
+    "facing=north": {
+      "model": "nebulus:dungeonkeyhole"
+    },
+    "facing=east": {
+      "model": "nebulus:dungeonkeyhole",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:dungeonkeyhole",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:dungeonkeyhole",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "nebulus:dungeonkeyhole",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "nebulus:dungeonkeyhole",
+      "x": 90
+    }
+  }
+}

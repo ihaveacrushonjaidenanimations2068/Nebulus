@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/chiseledvolcanicnebulite",
+    "up": "blocks/activatedaltar",
+    "north": "blocks/dungeondoorfront",
+    "east": "blocks/chiseledvolcanicnebulite",
+    "south": "blocks/chiseledvolcanicnebulite",
+    "west": "blocks/chiseledvolcanicnebulite",
+    "particle": "blocks/chiseledvolcanicnebulite"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:chair"
+    },
+    "facing=north": {
+      "model": "nebulus:chair"
+    },
+    "facing=east": {
+      "model": "nebulus:chair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:chair",
+      "y": 270
+    }
+  }
+}

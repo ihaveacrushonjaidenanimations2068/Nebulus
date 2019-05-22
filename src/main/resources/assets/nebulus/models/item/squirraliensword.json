@@ -1,0 +1,6 @@
+{
+  "parent": "nebulus:custom/model_(14)",
+  "textures": {
+    "0": "blocks/brickscrystallite"
+  }
+}

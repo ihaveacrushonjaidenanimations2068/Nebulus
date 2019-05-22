@@ -1,0 +1,10 @@
+{
+  "parent": "nebulus:custom/model_(6)",
+  "textures": {
+    "all": "blocks/emberoakdoorlower",
+    "particle": "blocks/emberoakdoorlower",
+    "0": "blocks/emberoakdoorupper",
+    "1": "blocks/emberoakdoorlower",
+    "missing": "blocks/emberoakside"
+  }
+}

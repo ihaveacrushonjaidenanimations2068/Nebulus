@@ -1,0 +1,10 @@
+{
+  "parent": "nebulus:custom/model_(6)",
+  "textures": {
+    "all": "blocks/nebsulizedstone",
+    "particle": "blocks/nebsulizedstone",
+    "0": "blocks/nebuwillowdoorupper",
+    "1": "blocks/nebuwillowdoorlower",
+    "missing": "blocks/nebuwillowbark"
+  }
+}

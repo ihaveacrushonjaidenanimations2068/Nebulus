@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nebulus:lumeniaso_portal_ew"
+    },
+    "axis=x": {
+      "model": "nebulus:lumeniaso_portal_ns"
+    },
+    "inventory": {
+      "model": "nebulus:lumeniaso_portal_ns"
+    }
+  }
+}

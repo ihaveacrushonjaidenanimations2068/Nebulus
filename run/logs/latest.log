@@ -1,0 +1,1460 @@
+[23:35:50] [main/INFO] [GradleStart]: Extra: []
+[23:35:50] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/AJ/.mcreator/gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[23:35:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:35:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:35:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:35:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:35:50] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[23:35:50] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_192, running on Windows 8.1:amd64:6.3, installed at C:\Pylo\MCreator182\jdk\jre
+[23:35:51] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[23:35:51] [main/ERROR] [FML]: Full: C:\Users\AJ\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[23:35:51] [main/ERROR] [FML]: Trimmed: c:/users/aj/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[23:35:51] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[23:35:51] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[23:35:53] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[23:35:53] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[23:35:53] [main/INFO] [FML]: Searching C:\Pylo\MCreator182\forge\run\.\mods for mods
+[23:35:53] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[23:35:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:35:53] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[23:35:53] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[23:35:53] [main/INFO] [GradleStart]: Injecting location in coremod com.mrcrayfish.obfuscate.asm.ObfuscatePlugin
+[23:35:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:35:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:35:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[23:35:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:35:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:35:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:35:56] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[23:35:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:35:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:35:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:35:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[23:35:57] [main/INFO] [GradleStart]: Remapping AccessTransformer rules...
+[23:35:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:35:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:35:57] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[23:35:59] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player11
+[23:36:08] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[23:36:08] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[23:36:18] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_192, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 196803648 bytes (187 MB) / 283115520 bytes (270 MB) up to 928514048 bytes (885 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+ObfuscatePlugin (obfuscate-0.2.6-1.12.2.jar)
+  com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+	GL info: ' Vendor: 'Intel' Version: '4.0.0 - Build 10.18.10.3304' Renderer: 'Intel(R) HD Graphics 4000'
+[23:36:18] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[23:36:18] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[23:36:18] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[23:36:19] [main/WARN] [FML]: Enabling removal of erroring Entities - USE AT YOUR OWN RISK
+[23:36:19] [main/WARN] [FML]: Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
+[23:36:19] [main/INFO] [FML]: Searching C:\Pylo\MCreator182\forge\run\.\mods for mods
+[23:36:21] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 150172243 nanos
+[23:36:27] [main/INFO] [FML]: Forge Mod Loader has identified 16 mods to load
+[23:36:28] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, obfuscate, nebulus, cjcm, cdm, cfm, ic2, jei, ogameconsoles, omca, osmw, twa, vehicle] at CLIENT
+[23:36:28] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, obfuscate, nebulus, cjcm, cdm, cfm, ic2, jei, ogameconsoles, omca, osmw, twa, vehicle] at SERVER
+[23:36:38] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Nebulus, FMLFileResourcePack:MrCrayfish's Jumping Castle Mod, FMLFileResourcePack:MrCrayfish's Device Mod, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Ocelot's Game Consoles Mod, FMLFileResourcePack:Model Creator Application, FMLFileResourcePack:Super Mario World, FMLFileResourcePack:Thinking With Aperture, FMLFileResourcePack:MrCrayfish's Vehicle Mod, newloadingscreen - Copy
+[23:36:38] [main/INFO] [Obfuscate]: Applying ASM to RenderItem
+[23:36:38] [main/INFO] [Obfuscate]: Successfully patched RenderItem
+[23:36:38] [main/INFO] [FML]: Processing ObjectHolder annotations
+[23:36:38] [main/INFO] [FML]: Found 1168 ObjectHolder annotations
+[23:36:38] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[23:36:38] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[23:36:38] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[23:36:39] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[23:36:39] [main/INFO] [FML]: OBJLoader: Domain nebulus has been added.
+[23:36:45] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[23:37:05] [main/INFO] [ic2.Recipe]: Successfully loaded 328 out of 328 recipes for shaped recipes
+[23:37:05] [main/INFO] [ic2.Recipe]: Successfully loaded 73 out of 73 recipes for shapeless recipes
+[23:37:05] [main/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[23:37:05] [main/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 50 out of 50 recipes for compressor recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 9 out of 9 recipes for metal former extruding recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[23:37:06] [main/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[23:37:07] [main/WARN] [ic2.Item]: The item tritium_fuel_rod is not initialized.
+[23:37:07] [main/WARN] [ic2.Item]: The item plasma_launcher is not initialized.
+[23:37:07] [main/WARN] [ic2.Block]: The fluid deuterium is not initialized.
+[23:37:08] [main/INFO] [osmw]: Reloading Buffered Images
+[23:37:10] [main/INFO] [cdm]: Registering blocks
+[23:37:11] [main/INFO] [FML]: Applying holder lookups
+[23:37:11] [main/INFO] [FML]: Holder lookups applied
+[23:37:11] [main/INFO] [cdm]: Registering items
+[23:37:11] [main/INFO] [FML]: Applying holder lookups
+[23:37:11] [main/INFO] [FML]: Holder lookups applied
+[23:37:11] [main/INFO] [FML]: Applying holder lookups
+[23:37:11] [main/INFO] [FML]: Holder lookups applied
+[23:37:11] [main/INFO] [cdm]: Registering models
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:small_engine/wood
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:small_engine/stone
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:small_engine/iron
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:small_engine/gold
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:small_engine/diamond
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:large_engine/wood
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:large_engine/stone
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:large_engine/iron
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:large_engine/gold
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:large_engine/diamond
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:electric_engine/wood
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:electric_engine/stone
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:electric_engine/iron
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:electric_engine/gold
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:electric_engine/diamond
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:wheel/standard
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:wheel/sports
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:wheel/racing
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:wheel/off_road
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:wheel/snow
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:wheel/all_terrain
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:wheel/plastic
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:spray_can_lid
+[23:37:11] [main/INFO] [STDOUT]: [com.mrcrayfish.vehicle.init.RegistrationHandler$Models:registerRender:101]: vehicle:spray_can
+[23:37:11] [main/INFO] [FML]: Applying holder lookups
+[23:37:11] [main/INFO] [FML]: Holder lookups applied
+[23:37:11] [main/INFO] [FML]: Injecting itemstacks
+[23:37:11] [main/INFO] [FML]: Itemstack injection complete
+[23:37:25] [main/WARN] [net.minecraft.client.audio.SoundHandler]: File cfm:sounds/channel_news.ogg does not exist, cannot add it to event cfm:channel_news
+[23:37:25] [main/WARN] [net.minecraft.client.audio.SoundHandler]: File cfm:sounds/channel_cooking.ogg does not exist, cannot add it to event cfm:channel_cooking
+[23:37:25] [main/WARN] [net.minecraft.client.audio.SoundHandler]: File cfm:sounds/channel_sam_tabor.ogg does not exist, cannot add it to event cfm:channel_sam_tabor
+[23:37:25] [main/WARN] [net.minecraft.client.audio.SoundHandler]: File cfm:sounds/channel_heman.ogg does not exist, cannot add it to event cfm:channel_heman
+[23:37:25] [main/WARN] [net.minecraft.client.audio.SoundHandler]: File cfm:sounds/channel_switch.ogg does not exist, cannot add it to event cfm:channel_switch
+[23:37:25] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[23:37:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[23:37:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:37:27] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[23:37:27] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[23:38:03] [main/INFO] [FML]: Max texture size: 8192
+[23:38:13] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 2048x1024 textures-atlas
+[23:38:25] [main/INFO] [cdm]: Registering recipes
+[23:38:25] [main/INFO] [FML]: Applying holder lookups
+[23:38:25] [main/INFO] [FML]: Holder lookups applied
+[23:38:25] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitylagsphere`, expected `nebulus`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:25] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityaquatictable`, expected `nebulus`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:26] [main/INFO] [cdm]: Registering task 'install_app'
+[23:38:26] [main/INFO] [cdm]: Registering task 'update_application_data'
+[23:38:26] [main/INFO] [cdm]: Registering task 'print'
+[23:38:26] [main/INFO] [cdm]: Registering task 'update_system_data'
+[23:38:26] [main/INFO] [cdm]: Registering task 'connect'
+[23:38:26] [main/INFO] [cdm]: Registering task 'ping'
+[23:38:26] [main/INFO] [cdm]: Registering task 'get_network_devices'
+[23:38:26] [main/INFO] [cdm]: Registering task 'bank_deposit'
+[23:38:26] [main/INFO] [cdm]: Registering task 'bank_withdraw'
+[23:38:26] [main/INFO] [cdm]: Registering task 'bank_get_balance'
+[23:38:26] [main/INFO] [cdm]: Registering task 'bank_pay'
+[23:38:26] [main/INFO] [cdm]: Registering task 'bank_add'
+[23:38:26] [main/INFO] [cdm]: Registering task 'bank_remove'
+[23:38:26] [main/INFO] [cdm]: Registering task 'send_action'
+[23:38:26] [main/INFO] [cdm]: Registering task 'get_file_system'
+[23:38:26] [main/INFO] [cdm]: Registering task 'get_files'
+[23:38:26] [main/INFO] [cdm]: Registering task 'get_folder_structure'
+[23:38:26] [main/INFO] [cdm]: Registering task 'get_main_drive'
+[23:38:26] [main/INFO] [cdm]: Registering task 'update_inbox'
+[23:38:26] [main/INFO] [cdm]: Registering task 'send_email'
+[23:38:26] [main/INFO] [cdm]: Registering task 'check_email_account'
+[23:38:26] [main/INFO] [cdm]: Registering task 'register_email_account'
+[23:38:26] [main/INFO] [cdm]: Registering task 'delete_email'
+[23:38:26] [main/INFO] [cdm]: Registering task 'view_email'
+[23:38:26] [main/INFO] [cdm]: Registering print 'com.mrcrayfish.device.programs.ApplicationPixelPainter$PicturePrint'
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[23:38:29] [main/INFO] [cdm]: Registering task 'omca.notification_copy'
+[23:38:29] [main/ERROR] [cdm]: The print 'com.ocelot.mod.application.MarioPrint$Print' is missing an empty constructor and could not be registered!
+[23:38:29] [main/ERROR] [cdm]: The print 'com.ocelot.mod.application.MarioPrint$Print' could not be registered due to a critical error!
+[23:38:29] [main/INFO] [FML]: Injecting itemstacks
+[23:38:29] [main/INFO] [FML]: Itemstack injection complete
+[23:38:30] [main/ERROR] [cdm]: Icon for application 'cdm:app_store' could not be found at '/assets/cdm/textures/app/icon/app_store.png'
+[23:38:30] [main/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[23:38:30] [main/INFO] [ic2.General]: ic2 version 2.8.100-ex112 loaded.
+[23:38:31] [main/INFO] [jei]: Starting JEI...
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:31] [main/ERROR] [jei]: Found empty subBlock of Block{cfm:curtains_open}
+[23:38:32] [main/INFO] [jei]: Registering recipe categories...
+[23:38:32] [main/INFO] [jei]: Registering recipe categories took 162.4 ms
+[23:38:32] [main/INFO] [jei]: Registering mod plugins...
+[23:38:34] [main/INFO] [jei]: Registering mod plugins took 2.399 s
+[23:38:34] [main/INFO] [jei]: Building recipe registry...
+[23:38:34] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@526f6d54
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: java.lang.ClassNotFoundException: mezz.jei.api.ingredients.VanillaTypes
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_192]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_192]
+	... 58 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_192]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_192]
+	... 58 more
+[23:38:34] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@12ac0f07
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@5768e024
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@1f180e3f
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@16f44823
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@6452b9cd
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@74ab0ca3
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@2b1d9dff
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@1f9c6def
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@6e713300
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@4293f479
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@5267bb1
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@79a98def
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@1e2748e9
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@434a5768
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:35] [main/ERROR] [jei]: Found a broken recipe: com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe@75074743
+Failed to get ingredients from recipe wrapper
+
+java.lang.NoClassDefFoundError: mezz/jei/api/ingredients/VanillaTypes
+	at com.ocelot.integration.jei.console_maker.ConsoleMakerRecipe.getIngredients(ConsoleMakerRecipe.java:30) ~[ConsoleMakerRecipe.class:?]
+	at mezz.jei.recipes.RecipeRegistry.getIngredients(RecipeRegistry.java:288) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipeUnchecked(RecipeRegistry.java:274) ~[RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:262) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:234) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipe(RecipeRegistry.java:212) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.addRecipes(RecipeRegistry.java:166) [RecipeRegistry.class:?]
+	at mezz.jei.recipes.RecipeRegistry.<init>(RecipeRegistry.java:97) [RecipeRegistry.class:?]
+	at mezz.jei.startup.ModRegistry.createRecipeRegistry(ModRegistry.java:303) [ModRegistry.class:?]
+	at mezz.jei.startup.JeiStarter.start(JeiStarter.java:68) [JeiStarter.class:?]
+	at mezz.jei.startup.ProxyCommonClient.loadComplete(ProxyCommonClient.java:120) [ProxyCommonClient.class:?]
+	at mezz.jei.JustEnoughItems.loadComplete(JustEnoughItems.java:54) [JustEnoughItems.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:626) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_192]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_192]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_192]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_192]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[23:38:37] [main/INFO] [jei]: Building recipe registry took 2.354 s
+[23:38:37] [main/INFO] [jei]: Building ingredient list...
+[23:38:37] [main/INFO] [jei]: Building ingredient list took 201.8 ms
+[23:38:37] [main/INFO] [jei]: Building ingredient filter...
+[23:38:39] [main/INFO] [jei]: Building ingredient filter took 1.713 s
+[23:38:39] [main/INFO] [jei]: Building runtime...
+[23:38:39] [main/INFO] [jei]: Building runtime took 448.8 ms
+[23:38:39] [main/INFO] [jei]: Ingredients are being added at runtime: 30 net.minecraft.item.ItemStack
+[23:38:39] [main/WARN] [jei]: Sending runtime to plugin: ic2.jeiIntegration.SubModule took 139 ms
+[23:38:39] [main/INFO] [jei]: Starting JEI took 8.580 s
+[23:38:41] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 16 mods
+[23:38:43] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[23:38:51] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN minecraft
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:   domain minecraft is missing 30 textures
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     domain minecraft has 6 locations:
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Forge Mod Loader
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Minecraft Forge
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       mod nebulus resources at C:\Pylo\MCreator182\forge\build\libs\modid-1.0.jar
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       mod ic2 resources at .\mods\industrialcraft-2-2.8.100-ex112.jar
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       resource pack at path .\resourcepacks\newloadingscreen - Copy
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain minecraft are:
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/53356749_1096995003805579_5566766185325789184_n.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/misoelyanaltar.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/nebuwillowdoorlower.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/mushroom_block_skin_brown.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/primedlamp.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/cinderrootglass.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/tentacleblockgreen.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/redegg_0.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/hythalumcoralblock.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/blocks/iron_block.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/glass_white.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures//models/ember_bazooka.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/nebulimeteor.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/brickscrystallite.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/earthshifter_planks.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/nebuwillowdoorupper.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/nebulatorside.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/activatedaltar.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/infestica_portal.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/tentacleblock.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/daemonaltar.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/nebugrasstop.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/nebulatortop.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/flowing_sentry_gel.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/nebulilichen.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/battle_golem.png (1).png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/etherealgrass.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/block_teleporter_1.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/mnistill.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain minecraft
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN galacticraftcore
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:   domain galacticraftcore is missing 1 texture
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     domain galacticraftcore is missing a resource manager - it is probably a side-effect of automatic texture processing
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain galacticraftcore are:
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/fallen_meteor.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain galacticraftcore
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN aether
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:   domain aether is missing 7 textures
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     domain aether is missing a resource manager - it is probably a side-effect of automatic texture processing
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain aether are:
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/labyrinth_chest/labyrinth chest main top.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/labyrinth_chest/labyrinth chest corners.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/labyrinth_chest/labyrinth chest main open bottom.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/labyrinth_chest/labyrinth chest main side.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/labyrinth_chest/labyrinth chest main bottom.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/labyrinth_chest/labyrinth chest main front.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/labyrinth_chest/labyrinth chest main open top.png
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain aether
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[23:38:57] [main/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[23:39:29] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[23:40:01] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[23:40:01] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[23:40:02] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[23:40:02] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: nebulus:shrineplan Expected: 343 Got: 619
+[23:40:02] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: nebulus:volcanicidolitem Expected: 4119 Got: 4706
+[23:40:02] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: nebulus:shrineplan Expected: 4218 Got: 4707
+[23:40:03] [Server thread/INFO] [FML]: Applying holder lookups
+[23:40:03] [Server thread/INFO] [FML]: Holder lookups applied
+[23:40:04] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:05] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 514 advancements
+[23:40:05] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [FML]: Loading dimension 3 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [FML]: Loading dimension 4 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [FML]: Loading dimension 5 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [FML]: Loading dimension 6 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [FML]: Loading dimension 7 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [FML]: Loading dimension 8 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [FML]: Loading dimension 9 (New World) (net.minecraft.server.integrated.IntegratedServer@3f443ef5)
+[23:40:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[23:40:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[23:40:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[23:40:10] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:40:10] [Server thread/INFO] [FML]: Unloading dimension 1
+[23:40:10] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 2, from 10
+[23:40:24] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[23:40:24] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[23:40:24] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,nebulus@4.4.0.4,FML@8.0.99.99,obfuscate@0.2.6,ogameconsoles@1.0.0,omca@2.0.0,cfm@6.2.0,cdm@0.4.1,jei@4.11.0.202,vehicle@0.37.0,forge@14.23.5.2768,ic2@2.8.100-ex112,osmw@0.1.1,mcp@9.42,cjcm@1.0,twa@0.1
+[23:40:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:40:25] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[23:40:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player11[local:E:9540980d] logged in with entity id 120 at (427.03462687036955, 4.0, 523.9749632451569)
+[23:40:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player11 joined the game
+[23:40:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3007ms behind, skipping 60 tick(s)
+[23:40:34] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[23:40:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[23:41:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/nebulus
+[23:41:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/emberrus
+[23:41:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/choleratis
+[23:41:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/leptospyradiaa
+[23:41:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/tuberculos
+[23:41:23] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Welcome to Nebulus!
+[23:41:23] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Thank you for downloading MrCrayfish's Furniture Mod.
+[23:41:23] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] -> Check out all MrCrayfish's Mods
+[23:41:23] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] -> mrcrayfish.com
+[23:41:23] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 27 advancements
+[23:41:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/lumeniaso
+[23:41:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/hymelium
+[23:41:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 20669ms behind, skipping 413 tick(s)
+[23:42:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2734ms behind, skipping 54 tick(s)
+[23:43:43] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[23:43:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[23:43:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/nebulus
+[23:43:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/emberrus
+[23:43:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/choleratis
+[23:43:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/leptospyradiaa
+[23:43:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/tuberculos
+[23:43:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/lumeniaso
+[23:43:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/hymelium
+[23:45:23] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /gamemode, /gamerule
+[23:45:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Survival Mode]
+[23:45:25] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Survival Mode
+[23:45:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Creative Mode]
+[23:45:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Creative Mode
+[23:45:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Survival Mode]
+[23:45:56] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Survival Mode
+[23:46:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Creative Mode]
+[23:46:03] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Creative Mode
+[23:48:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Survival Mode]
+[23:48:03] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Survival Mode
+[23:48:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Creative Mode]
+[23:48:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Creative Mode
+[23:48:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Spectator Mode]
+[23:48:45] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Spectator Mode
+[23:48:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Creative Mode]
+[23:48:56] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Creative Mode
+[23:49:39] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[23:49:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[23:49:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/nebulus
+[23:49:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/emberrus
+[23:49:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/choleratis
+[23:49:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/leptospyradiaa
+[23:49:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/tuberculos
+[23:49:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/lumeniaso
+[23:49:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/hymelium
+[23:53:21] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /enchant, /entitydata
+[23:53:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Enchanting succeeded]
+[23:53:30] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Enchanting succeeded
+[23:53:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Survival Mode]
+[23:53:34] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Survival Mode
+[23:53:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player11: Set own game mode to Creative Mode]
+[23:53:40] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Creative Mode
+[23:54:17] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[23:54:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[23:54:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/nebulus
+[23:54:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/emberrus
+[23:54:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/choleratis
+[23:54:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/leptospyradiaa
+[23:54:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/tuberculos
+[23:54:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/lumeniaso
+[23:54:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/hymelium
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:54:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player11 lost connection: Disconnected
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player11 left the game
+[23:54:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/nebulus
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/emberrus
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/choleratis
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/leptospyradiaa
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/tuberculos
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/lumeniaso
+[23:54:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/hymelium
+[23:54:18] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:54:18] [Server thread/INFO] [FML]: Unloading dimension 3
+[23:54:18] [Server thread/INFO] [FML]: Unloading dimension 4
+[23:54:18] [Server thread/INFO] [FML]: Unloading dimension 5
+[23:54:18] [Server thread/INFO] [FML]: Unloading dimension 6
+[23:54:18] [Server thread/INFO] [FML]: Unloading dimension 7
+[23:54:18] [Server thread/INFO] [FML]: Unloading dimension 8
+[23:54:18] [Server thread/INFO] [FML]: Unloading dimension 9
+[23:54:19] [Server thread/INFO] [FML]: Applying holder lookups
+[23:54:19] [Server thread/INFO] [FML]: Holder lookups applied
+[23:54:24] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[23:54:24] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[23:54:24] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

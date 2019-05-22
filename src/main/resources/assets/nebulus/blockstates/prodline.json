@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:prodline"
+    },
+    "facing=north": {
+      "model": "nebulus:prodline"
+    },
+    "facing=east": {
+      "model": "nebulus:prodline",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:prodline",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:prodline",
+      "y": 270
+    }
+  }
+}

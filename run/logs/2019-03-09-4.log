@@ -1,0 +1,105 @@
+[19:49:52] [main/INFO] [GradleStart]: Extra: []
+[19:49:52] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/AJ/.mcreator/gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:49:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:49:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:49:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:49:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:49:52] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[19:49:52] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_192, running on Windows 8.1:amd64:6.3, installed at C:\Pylo\MCreator182\jdk\jre
+[19:49:53] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[19:49:53] [main/ERROR] [FML]: Full: C:\Users\AJ\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[19:49:53] [main/ERROR] [FML]: Trimmed: c:/users/aj/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[19:49:53] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[19:49:53] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[19:49:56] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[19:49:56] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[19:49:56] [main/INFO] [FML]: Searching C:\Pylo\MCreator182\forge\run\.\mods for mods
+[19:49:56] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[19:49:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:49:56] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[19:49:56] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[19:49:56] [main/INFO] [GradleStart]: Injecting location in coremod com.mrcrayfish.obfuscate.asm.ObfuscatePlugin
+[19:49:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:49:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:49:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[19:49:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:49:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:49:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:50:00] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[19:50:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:50:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:50:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:50:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[19:50:03] [main/INFO] [GradleStart]: Remapping AccessTransformer rules...
+[19:50:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:50:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:50:03] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[19:50:05] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player708
+[19:50:27] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[19:50:27] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[19:50:31] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_192, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 151629256 bytes (144 MB) / 277872640 bytes (265 MB) up to 928514048 bytes (885 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+ObfuscatePlugin (obfuscate-0.2.6-1.12.2.jar)
+  com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+	GL info: ' Vendor: 'Intel' Version: '4.0.0 - Build 10.18.10.3304' Renderer: 'Intel(R) HD Graphics 4000'
+[19:50:31] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[19:50:31] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:50:32] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[19:50:33] [main/WARN] [FML]: Enabling removal of erroring Entities - USE AT YOUR OWN RISK
+[19:50:33] [main/WARN] [FML]: Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
+[19:50:33] [main/INFO] [FML]: Searching C:\Pylo\MCreator182\forge\run\.\mods for mods
+[19:50:35] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 503239525 nanos
+[19:50:54] [main/INFO] [FML]: Forge Mod Loader has identified 16 mods to load
+[19:50:57] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, obfuscate, nebulus, cjcm, cdm, cfm, ic2, jei, ogameconsoles, omca, osmw, twa, vehicle] at CLIENT
+[19:50:57] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, obfuscate, nebulus, cjcm, cdm, cfm, ic2, jei, ogameconsoles, omca, osmw, twa, vehicle] at SERVER
+[19:51:35] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Nebulus, FMLFileResourcePack:MrCrayfish's Jumping Castle Mod, FMLFileResourcePack:MrCrayfish's Device Mod, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Ocelot's Game Consoles Mod, FMLFileResourcePack:Model Creator Application, FMLFileResourcePack:Super Mario World, FMLFileResourcePack:Thinking With Aperture, FMLFileResourcePack:MrCrayfish's Vehicle Mod, newloadingscreen - Copy
+[19:51:36] [main/INFO] [Obfuscate]: Applying ASM to RenderItem
+[19:51:36] [main/INFO] [Obfuscate]: Successfully patched RenderItem
+[19:51:37] [main/INFO] [FML]: Processing ObjectHolder annotations
+[19:51:37] [main/INFO] [FML]: Found 1168 ObjectHolder annotations
+[19:51:37] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:51:37] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:51:37] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:51:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:51:38] [main/INFO] [FML]: OBJLoader: Domain nebulus has been added.
+[19:51:39] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[19:53:02] [main/INFO] [ic2.Recipe]: Successfully loaded 328 out of 328 recipes for shaped recipes
+[19:53:03] [main/INFO] [ic2.Recipe]: Successfully loaded 73 out of 73 recipes for shapeless recipes
+[19:53:03] [main/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[19:53:03] [main/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 50 out of 50 recipes for compressor recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 9 out of 9 recipes for metal former extruding recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[19:53:04] [main/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[19:53:09] [main/WARN] [ic2.Item]: The item tritium_fuel_rod is not initialized.
+[19:53:09] [main/WARN] [ic2.Item]: The item plasma_launcher is not initialized.
+[19:53:09] [main/WARN] [ic2.Block]: The fluid deuterium is not initialized.
+[19:53:14] [main/INFO] [osmw]: Reloading Buffered Images
+[19:53:20] [main/INFO] [cdm]: Registering blocks
+[19:53:21] [main/INFO] [FML]: Applying holder lookups
+[19:53:21] [main/INFO] [FML]: Holder lookups applied
+[19:53:21] [main/INFO] [cdm]: Registering items
+[19:53:21] [main/INFO] [FML]: Applying holder lookups
+[19:53:21] [main/INFO] [FML]: Holder lookups applied
+[19:53:21] [main/INFO] [FML]: Applying holder lookups
+[19:53:21] [main/INFO] [FML]: Holder lookups applied
+[19:53:21] [main/INFO] [cdm]: Registering models
+[19:53:22] [main/INFO] [FML]: Applying holder lookups
+[19:53:22] [main/INFO] [FML]: Holder lookups applied
+[19:53:22] [main/INFO] [FML]: Injecting itemstacks
+[19:53:22] [main/INFO] [FML]: Itemstack injection complete

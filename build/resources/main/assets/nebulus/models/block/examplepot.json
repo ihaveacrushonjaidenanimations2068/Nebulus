@@ -1,0 +1,11 @@
+{
+  "parent": "nebulus:custom/example_pot",
+  "textures": {
+    "all": "blocks/cauldron_inner",
+    "particle": "blocks/cauldron_inner",
+    "0": "blocks/log_oak",
+    "1": "blocks/cauldron_inner",
+    "2": "blocks/cauldron_side",
+    "3": "blocks/stone"
+  }
+}

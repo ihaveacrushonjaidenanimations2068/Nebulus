@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nebulus:leptospyradiaa_portal_ew"
+    },
+    "axis=x": {
+      "model": "nebulus:leptospyradiaa_portal_ns"
+    },
+    "inventory": {
+      "model": "nebulus:leptospyradiaa_portal_ns"
+    }
+  }
+}

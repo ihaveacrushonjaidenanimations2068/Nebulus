@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:shrineplan"
+    },
+    "facing=north": {
+      "model": "nebulus:shrineplan"
+    },
+    "facing=east": {
+      "model": "nebulus:shrineplan",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:shrineplan",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:shrineplan",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:infesticaportal"
+    },
+    "facing=north": {
+      "model": "nebulus:infesticaportal"
+    },
+    "facing=east": {
+      "model": "nebulus:infesticaportal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:infesticaportal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:infesticaportal",
+      "y": 270
+    }
+  }
+}

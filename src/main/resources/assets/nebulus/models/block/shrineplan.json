@@ -1,0 +1,10 @@
+{
+  "parent": "nebulus:custom/shrine_plan",
+  "textures": {
+    "all": "blocks/volcanicnebulitebricks",
+    "particle": "blocks/volcanicnebulitebricks",
+    "0": "blocks/activatedaltar",
+    "1": "blocks/chiseledvolcanicnebulite",
+    "2": "blocks/volcanicnebulitebricks"
+  }
+}

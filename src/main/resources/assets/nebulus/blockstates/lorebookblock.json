@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:lorebookblock"
+    },
+    "facing=north": {
+      "model": "nebulus:lorebookblock"
+    },
+    "facing=east": {
+      "model": "nebulus:lorebookblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:lorebookblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:lorebookblock",
+      "y": 270
+    }
+  }
+}

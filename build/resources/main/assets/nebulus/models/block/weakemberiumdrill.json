@@ -1,0 +1,10 @@
+{
+  "parent": "nebulus:custom/hopper_down",
+  "textures": {
+    "all": "blocks/polishedemberrock",
+    "particle": "blocks/polishedemberrock",
+    "side": "blocks/polishedemberrock",
+    "top": "blocks/polishedemberrock",
+    "inside": "blocks/polishedemberrock"
+  }
+}

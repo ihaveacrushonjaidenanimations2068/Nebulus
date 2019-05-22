@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:squirralientongue"
+    },
+    "facing=north": {
+      "model": "nebulus:squirralientongue"
+    },
+    "facing=east": {
+      "model": "nebulus:squirralientongue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:squirralientongue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:squirralientongue",
+      "y": 270
+    }
+  }
+}

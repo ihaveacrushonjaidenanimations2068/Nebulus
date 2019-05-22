@@ -1,0 +1,26 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-17 19:43:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-02-17 19:39:45 +0800"
+    },
+    "done": true
+  },
+  "nebulus:wothy": {
+    "criteria": {
+      "wothy": "2019-02-17 20:20:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-02-17 19:20:09 +0800"
+    },
+    "done": false
+  }
+}

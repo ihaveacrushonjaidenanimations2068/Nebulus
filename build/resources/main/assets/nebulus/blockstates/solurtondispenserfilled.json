@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:solurtondispenserfilled"
+    },
+    "facing=north": {
+      "model": "nebulus:solurtondispenserfilled"
+    },
+    "facing=east": {
+      "model": "nebulus:solurtondispenserfilled",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:solurtondispenserfilled",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:solurtondispenserfilled",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "nebulus:solurtondispenserfilled",
+      "x": 90
+    },
+    "facing=down": {
+      "model": "nebulus:solurtondispenserfilled",
+      "x": 270
+    }
+  }
+}

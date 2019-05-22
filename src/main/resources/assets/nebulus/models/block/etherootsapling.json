@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blocks/etheroot_sapling",
+    "particle": "blocks/etheroot_sapling"
+  }
+}

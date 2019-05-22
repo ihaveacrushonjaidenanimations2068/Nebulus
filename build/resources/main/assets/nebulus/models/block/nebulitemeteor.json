@@ -1,0 +1,8 @@
+{
+  "parent": "nebulus:custom/fallen_meteor_model",
+  "textures": {
+    "all": "blocks/outernebulitemeteor",
+    "particle": "blocks/outernebulitemeteor",
+    "texture": "blocks/outernebulitemeteor"
+  }
+}

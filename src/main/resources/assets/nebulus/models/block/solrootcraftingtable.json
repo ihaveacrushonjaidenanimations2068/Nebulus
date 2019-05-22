@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/solrootplanks",
+    "up": "blocks/solroot_crafting_table_top",
+    "north": "blocks/solroot",
+    "east": "blocks/solrootcraftig",
+    "south": "blocks/solrootcraftig",
+    "west": "blocks/solroot",
+    "particle": "blocks/solrootplanks"
+  }
+}

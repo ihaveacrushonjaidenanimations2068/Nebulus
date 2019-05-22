@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:volcanicidolblock"
+    },
+    "facing=north": {
+      "model": "nebulus:volcanicidolblock"
+    },
+    "facing=east": {
+      "model": "nebulus:volcanicidolblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:volcanicidolblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:volcanicidolblock",
+      "y": 270
+    }
+  }
+}

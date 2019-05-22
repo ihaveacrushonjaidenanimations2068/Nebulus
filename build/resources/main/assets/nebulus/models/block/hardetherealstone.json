@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/stoneetherock",
+    "up": "blocks/stoneetherock",
+    "north": "blocks/stoneetherock",
+    "east": "blocks/stoneetherock",
+    "south": "blocks/stoneetherock",
+    "west": "blocks/stoneetherock",
+    "particle": "blocks/stoneetherock"
+  }
+}

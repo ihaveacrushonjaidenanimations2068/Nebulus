@@ -1,0 +1,16 @@
+{
+  "parent": "nebulus:custom/model_(18)",
+  "textures": {
+    "all": "blocks/misoelyanaltar",
+    "particle": "blocks/misoelyanaltar",
+    "77": "blocks/tentacleblock",
+    "78": "blocks/tentacleblockgreen",
+    "1": "blocks/53356749_1096995003805579_5566766185325789184_n",
+    "2": "blocks/activatedaltar",
+    "68": "blocks/nebugrasstop",
+    "3": "blocks/brickscrystallite",
+    "72": "blocks/nebulilichen",
+    "62": "blocks/misoelyanaltar",
+    "63": "blocks/mnistill"
+  }
+}

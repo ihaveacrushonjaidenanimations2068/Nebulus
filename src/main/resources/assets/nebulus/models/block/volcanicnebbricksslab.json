@@ -1,0 +1,8 @@
+{
+  "parent": "nebulus:custom/model_(4)",
+  "textures": {
+    "all": "blocks/volcanicnebulitebricks",
+    "particle": "blocks/volcanicnebulitebricks",
+    "missing": "blocks/volcanicnebulitebricks"
+  }
+}

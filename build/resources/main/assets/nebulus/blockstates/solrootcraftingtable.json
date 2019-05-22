@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:solrootcraftingtable"
+    },
+    "facing=north": {
+      "model": "nebulus:solrootcraftingtable"
+    },
+    "facing=east": {
+      "model": "nebulus:solrootcraftingtable",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:solrootcraftingtable",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:solrootcraftingtable",
+      "y": 270
+    }
+  }
+}

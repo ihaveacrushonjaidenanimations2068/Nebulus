@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:examplepot"
+    },
+    "facing=north": {
+      "model": "nebulus:examplepot"
+    },
+    "facing=east": {
+      "model": "nebulus:examplepot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:examplepot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:examplepot",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/nebuwillowleaves",
+    "up": "blocks/nebuwillowleaves",
+    "north": "blocks/nebuwillowleaves",
+    "east": "blocks/nebuwillowleaves",
+    "south": "blocks/nebuwillowleaves",
+    "west": "blocks/nebuwillowleaves",
+    "particle": "blocks/nebuwillowleaves"
+  }
+}

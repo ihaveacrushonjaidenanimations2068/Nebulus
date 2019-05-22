@@ -1,0 +1,6 @@
+{
+  "parent": "nebulus:custom/ember_bazooka",
+  "textures": {
+    "0": "blocks/ember_bazooka (1)"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:solrootdoor"
+    },
+    "facing=north": {
+      "model": "nebulus:solrootdoor"
+    },
+    "facing=east": {
+      "model": "nebulus:solrootdoor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:solrootdoor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:solrootdoor",
+      "y": 270
+    }
+  }
+}

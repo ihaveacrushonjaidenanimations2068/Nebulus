@@ -1,0 +1,9 @@
+{
+  "parent": "nebulus:custom/model_(15)",
+  "textures": {
+    "all": "blocks/tentacleblock",
+    "particle": "blocks/tentacleblock",
+    "0": "blocks/tentacleblock",
+    "1": "blocks/tentacleblockgreen"
+  }
+}

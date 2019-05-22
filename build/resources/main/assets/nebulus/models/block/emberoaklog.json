@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/emberoaktop",
+    "up": "blocks/emberoaktop",
+    "north": "blocks/emberoakside",
+    "east": "blocks/emberoakside",
+    "south": "blocks/emberoakside",
+    "west": "blocks/emberoakside",
+    "particle": "blocks/emberoaktop"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nebulus:emberoakdoor"
+    },
+    "facing=north": {
+      "model": "nebulus:emberoakdoor"
+    },
+    "facing=east": {
+      "model": "nebulus:emberoakdoor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nebulus:emberoakdoor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nebulus:emberoakdoor",
+      "y": 270
+    }
+  }
+}

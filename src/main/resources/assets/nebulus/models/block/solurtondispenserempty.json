@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blocks/solurtonrefillcenter",
+    "up": "blocks/solurtondispensertop",
+    "north": "blocks/solurtondispenseroff",
+    "east": "blocks/solurtonrefillcenter",
+    "south": "blocks/solurtonrefillcenter",
+    "west": "blocks/solurtonrefillcenter",
+    "particle": "blocks/solurtonrefillcenter"
+  }
+}
